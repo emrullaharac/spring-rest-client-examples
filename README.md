@@ -11,7 +11,7 @@ Das Projekt besteht aus drei Teilen:
 - `/api/characters` – Gibt eine reduzierte Liste aller Charaktere zurück.
 - `/api/characters/{id}` – Gibt einen einzelnen Charakter zurück.
 - `/api/characters?status=alive` – Gibt gefilterte Charaktere (z.B. nur lebende).
-- `/api/species-statistic?species=Human` – Gibt die Anzahl lebender Charaktere einer Spezies zurück.
+- `/api/characters/species-statistic?species=Human` – Gibt die Anzahl lebender Charaktere einer Spezies zurück.
 
 **Datenquelle:** [https://rickandmortyapi.com](https://rickandmortyapi.com)
 
