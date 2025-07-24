@@ -34,7 +34,7 @@ Das Projekt besteht aus drei Teilen:
 1. Projekt klonen:
 
    ```bash
-   git clone https://github.com/dein-benutzername/spring-rest-client-examples.git
+   git clone https://github.com/emrullaharac/spring-rest-client-examples
    ```
 
 2. Mit Maven bauen und starten:
